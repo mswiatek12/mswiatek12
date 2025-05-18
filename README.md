@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm currently studying Computer Science at AGH University in Cracow<br><br>- 📚 I'm currently learning REACT <br>- ⚡ In my free time I code & run</p>
+<p align="left">I'm currently studying Computer Science at AGH University in Cracow<br><br>- 📚 I'm currently learning REACT <br>- ⚡ In my free time I either study || do sports</p>
 
 ###
 
